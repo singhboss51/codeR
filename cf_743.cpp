@@ -4,7 +4,7 @@
 using namespace std;
 
 #pragma GCC target("avx,avx2,fma")
-#define endl "\n"
+
 #define pb push_back
 #define rep(i,a,b) for (int i = a; i <= b; i++)
 #define repr(i,a, b) for (int i = b; i >= a; i--)
