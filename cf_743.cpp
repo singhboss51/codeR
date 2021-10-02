@@ -2,8 +2,7 @@
 
 #include <bits/stdc++.h>
 using namespace std;
-#define FASTIO
-#pragma GCC optimize("Ofast")
+
 #pragma GCC target("avx,avx2,fma")
 #define endl "\n"
 #define pb push_back
