@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#pragma GCC target("avx,avx2,fma")
+
 
 #define pb push_back
 #define rep(i,a,b) for (int i = a; i <= b; i++)
